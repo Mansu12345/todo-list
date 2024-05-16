@@ -1,4 +1,4 @@
-{ "proxy": "http://localhost:5173/",
+{ 
   "name": "realvite",
   "private": true,
   "version": "0.0.0",
