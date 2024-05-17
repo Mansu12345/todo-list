@@ -3,3 +3,29 @@
   height: 50px;
   border: 1px solid lightblue
 }
+
+.layout {
+  max-width: 1200px;
+  min-width: 800px ;
+  margin: 0 auto;
+}
+
+.todo-card {
+  display: flex;
+  flex-direction: column;
+  gap:1rem;
+  padding:1rem;
+  border: 1px solid #ccc;
+}
+
+
+.todo-list-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+
+.todo-title{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
